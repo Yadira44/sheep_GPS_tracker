@@ -7,3 +7,4 @@ The most/least visited spots of the sheep can help me determine if grass there i
 - The GPS tracker will be made into a collar and will be intended to be worn during the day only. (Time's : TBD)
 - The temperature will not be measured from the tracker itself, but done by myself.
 - The data from the GPS tracker will be layered with a map of the 10 acres of land that include; trees, water sources, houses, etc.
+- Sheep Breed: Dorper
